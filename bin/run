@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../singly_linked_list.rb'
+
+# write code here to implement your classes and instance menthod
