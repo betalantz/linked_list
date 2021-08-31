@@ -49,9 +49,3 @@ class LinkedList
 
 end
 
-list = LinkedList.new
-list.add(2)
-list.print
-list.add(4)
-list.add(6)
-list.print
